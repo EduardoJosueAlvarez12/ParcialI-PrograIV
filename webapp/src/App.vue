@@ -14,7 +14,7 @@
             <b-dropdown-item to="/cena">Cena</b-dropdown-item>
           </b-nav-item-dropdown>
                 
-          <b-nav-item to="/">Registro de glucosa</b-nav-item>
+          <b-nav-item to="/registro">Registro de glucosa</b-nav-item>
         </b-navbar-nav>
       
         <!-- Apartado de Fecha y hora -->
