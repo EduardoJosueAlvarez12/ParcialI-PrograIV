@@ -5,6 +5,8 @@ import Servicios from '../views/Servicios.vue'
 import RegistroView from '../views/RegistroView.vue'
 import CenaView from '../views/CenaView.vue'
 import DesayunoView from '../views/DesayunoView.vue'
+import About from '../views/About.vue'
+import Almuerzos from '../views/almuerzoView.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -36,16 +38,15 @@ const routes = [
     name: 'Desayuno',
     component: DesayunoView
   },
-
+  {
+    path: '/almuerzo',
+    name: 'Almuerzo',
+    component: Almuerzos
+  },
   {
     path: '/about',
     name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: function () {
-      return import(/* webpackChunkName: "about" */ '../views/About.vue')
-    }
+    component: About
   }
 ]
 

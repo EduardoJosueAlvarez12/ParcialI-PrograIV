@@ -1,0 +1,9 @@
+[
+    {"dayName":"Lunes","description":"Pavo en salsa de tomate con puré de papas.", "img":"https://img-global.cpcdn.com/recipes/ae9db63fa9efcf62/400x400cq70/photo.jpg", "valorCalorico": "1 Lata (300 g) de este platillo contiene 152 calorías." }, 
+    {"dayName":"Martes","description":"Filete de res asado, acompañado de ensalada de frutas.", "img":"https://superpola.com//site/assets/files/19487/135.jpg", "valorCalorico":"1 rebanada gruesa (250 g) de este platillo contiene 168 calorías."},
+    {"dayName":"Miércoles","description":"Sopa de verduras.", "img":"https://i.ytimg.com/vi/0L0CFw2bPNE/maxresdefault.jpg", "valorCalorico":"1 porción (234g) de este platillo contiene 98 calorías."},
+    {"dayName":"Jueves","description":"Pollo a la plancha con arroz integral.", "img":"https://i.blogs.es/a90b8b/pollo-yogur-arroz/840_560.jpg", "valorCalorico":"1 porción (200 g) de este platillo contiene 182 calorías."}, 
+    {"dayName":"Viernes","description":"Sopa de lentejas.", "img":"https://www.goya.com/media/3686/hearty-lentil-soup.jpg?quality=80", "valorCalorico":"1 lata (300 g) de este platillo contiene 223 calorías."},
+    {"dayName":"Sábado","description":"Pescado frito con vegetales.", "img":"https://media-cdn.tripadvisor.com/media/photo-s/11/34/b6/f7/pescado-frito-con-verduras.jpg", "valorCalorico":"1 porción (100 g) de este platillo contiene 206 calorías."}, 
+    {"dayName":"Domingo","description":"Sopa de pollo con verduras.", "img":"https://img-global.cpcdn.com/recipes/c40298a73f2de01b/1200x630cq70/photo.jpg", "valorCalorico":"1 taza (250 g) de este platillo contiene 120 calorías."}
+]
