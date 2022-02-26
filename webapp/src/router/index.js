@@ -3,7 +3,8 @@ import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Servicios from '../views/Servicios.vue'
 import RegistroView from '../views/RegistroView.vue'
-
+import CenaView from '../views/CenaView.vue'
+import DesayunoView from '../views/DesayunoView.vue'
 Vue.use(VueRouter)
 
 const routes = [
@@ -22,6 +23,20 @@ const routes = [
     name: 'RegistroView',
     component: RegistroView
   },
+
+
+  {
+    path: '/cena',
+    name: 'CenaView',
+    component: CenaView
+  },
+  
+  {
+    path: '/desayuno',
+    name: 'Desayuno',
+    component: DesayunoView
+  },
+
   {
     path: '/about',
     name: 'About',

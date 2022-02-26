@@ -1,0 +1,10 @@
+[
+    {"DayName1":"Lunes","nombre1":"Huevos revueltos con setas", "img":"https://th.bing.com/th/id/R.210dca89066e3eeb30540a593efcb03d?rik=pnEF0e714RIC2g&pid=ImgRaw&r=0","valorCalorico":"Una pieza (47 g) de este platillo contiene 100 calorias"},
+    {"DayName1":"Martes","nombre1":"Tortilla de Verduras", "img":"https://th.bing.com/th/id/R.9a7579cdccbd3a57f4c278d0573d1679?rik=Vzbv11Zjf63%2fhA&pid=ImgRaw&r=0","valorCalorico":"1 pieza (100 g) de este platillo contiene 237 calorias"},
+    {"DayName1":"Miercoles","nombre1":"Quiché de huevo con espinacas", "img":"https://th.bing.com/th/id/R.85180419b659ba4d6ea69238a89c2b4a?rik=5KJF6uZSDNOJVw&pid=ImgRaw&r=0","valorCalorico":"1 pieza(243 g) de este platillo contiene 178 calorías"},
+    {"DayName1":"Jueves","nombre1":"Fajitas de pavo a la Mexicana", "img":"https://th.bing.com/th/id/R.231323644c503ef3bd6991d0d657c20a?rik=VmLZDLHgB7tWRw&pid=ImgRaw&r=0","valorCalorico":"1 pieza (100 g) de este platillo contiene 101 calorías"},
+    {"DayName1":"Viernes","nombre1":"Crema de calabaza y lubina al horno o a la plancha", "img":"https://th.bing.com/th/id/R.a54547981f2d01cb008f7f5a151ba3de?rik=JqaK%2bi2osS7wzg&riu=http%3a%2f%2fmilrecetas.net%2fwp-content%2fuploads%2f2017%2f04%2flubina-a-la-plancha.jpg&ehk=DFVW5VP1X3RGqyWVZt76Jekf4xMYgkl0h37yTTe8dx0%3d&risl=&pid=ImgRaw&r=0","valorCalorico":"Una pieza (100 g) de este platillo contiene 168 calorías"},
+    {"DayName1":"Sabado","nombre1":"Ensalada de quinoa y salmón con cítricos", "img":"https://th.bing.com/th/id/R.075e3bafaaf4de9afe6a5327e0fd9a50?rik=SIgLX8egT%2b5pQw&pid=ImgRaw&r=0","valorCalorico":"Una pieza  (150 g) de este platillo contiene 200 calorías"},
+    {"DayName1":"Domingo","nombre1":"Sandwich integral de pechuga de pollo", "img":"https://th.bing.com/th/id/R.0e9110e4d360a51b3f35f5b394f91ec1?rik=m6khcA5Fv5OmFw&pid=ImgRaw&r=0","valorCalorico":"Una pieza (182 g) de este platillo contiene 515 calorías"}
+    
+]
